@@ -1,0 +1,1 @@
+dotnet add package Microsoft.Bot.Builder --version 4.12.2 or later
